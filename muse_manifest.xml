@@ -1,17 +1,19 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="creditsonline.ga" resolutions="1x" timestamp="1576049621352">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="creditsonline.ga" resolutions="1x" timestamp="1576170129970">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="58800839" ref="index"/>
-    <file name="nomq_index.css" crc="344492625" ref="index"/>
+    <file name="index.css" crc="4124894115" ref="index"/>
+    <file name="nomq_index.css" crc="160373686" ref="index"/>
+    <file name="offers.css" crc="72021414" ref="offers"/>
+    <file name="nomq_offers.css" crc="3886270061" ref="offers"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:offers"/>
+    <file name="museutils.js" crc="3803043152" ref="index:offers"/>
+    <file name="whatinput.js" crc="86476730" ref="index:offers"/>
+    <file name="museconfig.js" crc="380897831" ref="index:offers"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:offers"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:offers"/>
+    <file name="require.js" crc="4157109226" ref="index:offers"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="4226651660" ref="index"/>
@@ -107,7 +109,27 @@
     <file name="pablo_26274x137.jpg" crc="284734704" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:offers"/>
+    <file name="a-master-favicon.ico" crc="4226651660" ref="offers"/>
+    <file name="norton_av_logo.png" crc="528432806" seo="true" ref="offers">
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+    </file>
+    <file name="buy-now-free-download-png.png" crc="4052314121" seo="true" ref="offers">
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+      <caption webpage="offers" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="196705088" seo="true" mt="1576049619358" redirect="true"/>
+  <file name="index.html" crc="4110485501" seo="true" mt="1576169787848" redirect="true"/>
+  <file name="offers.html" crc="404697245" seo="true" mt="1576170125166" redirect="true"/>
 </manifest>
